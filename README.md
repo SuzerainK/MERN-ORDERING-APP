@@ -1,5 +1,8 @@
 MERN Project  
 Still Under development  
+
+UI imported from shadcn https://ui.shadcn.com/docs/installation/vite  
+
 Mobile view  
 ![image](https://github.com/user-attachments/assets/bc7b0076-1b67-4acc-af68-55c2dc633774)  
 
